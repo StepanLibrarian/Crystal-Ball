@@ -1,0 +1,4 @@
+
+function mood(){
+    alert("kk")
+}
