@@ -1,0 +1,10 @@
+
+
+function weather(){
+
+}
+
+
+function mood(){
+        
+}
